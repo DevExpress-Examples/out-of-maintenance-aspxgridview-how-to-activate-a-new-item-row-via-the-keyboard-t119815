@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # ASPxGridView - How to activate a new item row via the keyboard
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t119815)**
+**[[Run Online]](https://codecentral.devexpress.com/t119815/)**
 <!-- run online end -->
 
 
